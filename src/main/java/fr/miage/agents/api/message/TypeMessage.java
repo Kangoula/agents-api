@@ -28,6 +28,7 @@ public enum TypeMessage {
     Aide,
     DemandeCategorie,
     DemandeDistance,
+    ResultatDistance,
     PrevenirSolde,
     ResultatCategorie,
     AppelMethodeIncorrect,
