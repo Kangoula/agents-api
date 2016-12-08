@@ -6,6 +6,7 @@ import fr.miage.agents.api.message.TypeMessage;
 /**
  * Demande envoyée à un agent Supermarché par un agent Client pour connaitre la distance les séparants
  * Le message de réponse est un ResultatDistance
+ * 
  * @author kangoula
  */
 public class DemandeDistance extends Message {

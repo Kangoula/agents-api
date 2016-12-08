@@ -21,7 +21,6 @@ public enum TypeMessage {
 
     //Recherche
     Recherche,
-
     ResultatRecherche,
 
     //Util

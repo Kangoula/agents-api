@@ -5,6 +5,7 @@ import fr.miage.agents.api.message.TypeMessage;
 
 /**
  * Message envoyé en réponse d'un Message de type DemandeDistance
+ * 
  * @author kangoula
  */
 public class ResultatDistance extends Message{
