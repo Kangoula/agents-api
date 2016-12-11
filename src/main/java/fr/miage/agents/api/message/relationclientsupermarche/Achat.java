@@ -15,11 +15,11 @@ public class Achat extends Message {
 	 * La clé correspond à l'id du produit
 	 * La valeur correspond à la quantité demandée
 	 */
-	public Map<Integer,Integer> listeCourses;
+	public Map<Long,Integer> listeCourses;
 	
 	public UUID Session;
 
 	public Achat() {
-        super(TypeMessage.InitierAchat);
+        super(TypeMessage.AchatClient);
     }
 }

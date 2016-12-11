@@ -35,7 +35,12 @@ public enum TypeMessage {
 
     //interClients
     DemandeEchange,
+    ReponseEchange,
 
     //Production
-    Production;
+    Production,
+	
+	//Courses
+	AchatClient,
+	ResultatAchatClient;
 }
